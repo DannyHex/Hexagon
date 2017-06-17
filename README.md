@@ -1,7 +1,7 @@
 Hexagon integration/staging tree
 ================================
 
-http://www.hexagon.org
+http://www.hex-coin.com/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Hexagon Developers

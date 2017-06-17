@@ -1,0 +1,9 @@
+Building Hexagon
+
+See doc/readme-qt.rst for instructions on building Hexagon-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Hexagon.
+
+See doc/build-*.txt for instructions on building hexagond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hexagon.
